@@ -3,7 +3,7 @@ body{
     font-family: Helvetica;
     text-align: center;
 }
-h1{
+.titulo{
     color:rgb(255, 47, 47);
     font-weight: bold;
     font-size: 150px;
